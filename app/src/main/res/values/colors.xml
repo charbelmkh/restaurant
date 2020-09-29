@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/red</color>
+    <color name="colorPrimaryDark">@color/red</color>
+    <color name="colorAccent">@color/red</color>
+
+
+    <color name="loadingBackgroundColor">@color/greyLight</color>
+    <color name="black_overlay">@color/greyDark</color>
+
+
+
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greyLight">#66A9A9A9</color>
+    <color name="greyDark">#80000000</color>
+    <color name="black">#000000</color>
+
+</resources>
